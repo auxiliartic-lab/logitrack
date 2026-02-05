@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LogiTrack Pro</string>
+    <string name="title_activity_main">LogiTrack Pro</string>
+    <string name="package_name">com.quimicoscauca.logitrack</string>
+    <string name="custom_url_scheme">com.quimicoscauca.logitrack</string>
+</resources>

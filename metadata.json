@@ -1,0 +1,7 @@
+{
+  "name": "LogiTrack Pro - Gestión de Flota",
+  "description": "Sistema avanzado de seguimiento de vehículos y gestión de etapas logísticas para operaciones de entrada y salida de materiales, con análisis de tiempos y reportes detallados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

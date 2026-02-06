@@ -1,0 +1,2 @@
+# Asegurar LF en scripts para que CI (Linux) funcione bien
+android/gradlew text eol=lf
